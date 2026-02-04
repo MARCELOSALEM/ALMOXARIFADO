@@ -1,0 +1,10 @@
+
+{
+  "name": "seasafety-inventory",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Deploying static files...' && exit 0",
+    "install": "echo 'Skipping install...' && exit 0"
+  }
+}
